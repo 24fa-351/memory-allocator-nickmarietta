@@ -51,7 +51,7 @@ void insert_node(char *start_ptr, int size)
     heap_node *new_node = (heap_node *)start_ptr;
 
     new_node->size = size;
-    new_node->start_ptr = start_ptr;
+    new_node->start_ptr = (char *)start_ptr + sizeof(heap_node);
     new_node->previous = NULL;
     new_node->next = NULL;
 
@@ -118,8 +118,10 @@ void *get_node(int size)
             }
             else
             {
-                current->start_ptr += (size + sizeof(heap_node));
-                current->size -= (size + sizeof(heap_node));
+                // Align the new pointer and ensure correct size adjustment
+                size_t total_size = size + sizeof(heap_node);
+                current->start_ptr += total_size;
+                current->size -= total_size;
                 return ptr_node;
             }
         }

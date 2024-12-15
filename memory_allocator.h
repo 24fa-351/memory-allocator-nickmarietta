@@ -3,12 +3,12 @@
 
 #include <stdlib.h>
 
-void free_node(void *ptr);
-
-char* calloc_node(void *ptr, size_t size);
+char* calloc_node(size_t someNum, size_t size);
 
 void* realloc_node(void *ptr, size_t size);
 
 char* malloc_node(size_t size);
+
+void diff_free(void *ptr);
 
 #endif
