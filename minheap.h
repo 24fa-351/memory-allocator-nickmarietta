@@ -1,13 +1,13 @@
-#define MINHEAP_H
 #ifndef MINHEAP_H
+#define MINHEAP_H
+
+#include <stddef.h>
 
 typedef unsigned long long heap_key;
 typedef void heap_val;
 
-#include <stddef.h>
-
 // design of minheap node
-trpedef struct
+typedef struct
 {
     int size;
     char *start_ptr;

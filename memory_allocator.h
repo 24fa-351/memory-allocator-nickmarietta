@@ -1,9 +1,7 @@
-#define MALLOC_H
-#ifndef MALLOC_H
+#define MEMORY_ALLOCATOR_H
+#ifndef MEMORY_ALLOCATOR_H
 
 #include <stdlib.h>
 
-void *customMalloc(size_t size);
-void customFree(void *ptr);
 
 #endif
