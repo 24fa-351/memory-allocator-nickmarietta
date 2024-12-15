@@ -7,7 +7,7 @@ typedef unsigned long long heap_key;
 typedef void heap_val;
 
 // design of minheap node
-typedef struct
+typedef struct heap_node
 {
     int size;
     char *start_ptr;
@@ -33,6 +33,6 @@ void insert_node(char *start_ptr, int size);
 
 void *get_node(int size);
 
-void *get_heap_size(ssize_t size);
+void *get_heap_size(size_t size);
 
 #endif

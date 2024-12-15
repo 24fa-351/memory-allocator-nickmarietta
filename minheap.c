@@ -7,7 +7,7 @@
 
 #define SBRK (4096)
 
-minheap overall_heap;
+minheap overall_heap = {NULL, NULL, 0};
 
 void remove_node(heap_node *node)
 {
@@ -15,7 +15,9 @@ void remove_node(heap_node *node)
         return;
     }
     if (node->previous == NULL) {
-
+        overall_heap.root = node->next;
+    } else {
+        node->previous->next = node->next;
     }
     
 }
