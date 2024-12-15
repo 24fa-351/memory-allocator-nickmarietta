@@ -50,8 +50,10 @@ char *malloc_node(size_t size)
     if (ptr == NULL)
     {
         fprintf(stderr, "malloc_node failed\n");
-        return NULL;
+        exit(1);
     }
+
+    fprintf(stderr, "malloc_node: %p\n", ptr);
     allocations[num_allocations].ptr = ptr;
     allocations[num_allocations].size = size;
     num_allocations += 1;

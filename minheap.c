@@ -66,12 +66,8 @@ void insert_node(char *start_ptr, int size)
         heap_node *current = overall_heap.root;
         heap_node *previous = NULL;
 
-        while (current != NULL)
+        while (current != NULL && current->size < size)
         {
-            if (current->size >= size)
-            {
-                break;
-            }
             previous = current;
             current = current->next;
         }

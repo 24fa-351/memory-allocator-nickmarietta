@@ -4,7 +4,7 @@
 #include <time.h>
 
 // define "x" for system malloc, include for our versions. Don't do both.
-#ifdef SYSTEM_MALLOC
+#ifndef SYSTEM_MALLOC
 #define diff_free free
 #define malloc_node malloc
 #else
