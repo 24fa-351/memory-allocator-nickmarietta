@@ -1,0 +1,369 @@
+[0] malloc'ing 258081 bytes
+[0] ptrs[0]: 0x7f2f93b40010, going to copy 44 chars
+[0] 'por el enjambre no esta pa aca, esta pa alla'
+
+[0] randomly freeing 0x7f2f93b40010 ('por el enjambre no esta pa aca, esta pa alla')
+[0] freed 0x7f2f93b40010
+[1] malloc'ing 156931 bytes
+[1] ptrs[1]: 0x7fffd3c0a2a0, going to copy 44 chars
+[1] 'por el enjambre no esta pa aca, esta pa alla'
+
+[1] randomly freeing 0x7fffd3c0a2a0 ('por el enjambre no esta pa aca, esta pa alla')
+[1] freed 0x7fffd3c0a2a0
+[2] malloc'ing 96859 bytes
+[2] ptrs[2]: 0x7fffd3c0a2a0, going to copy 44 chars
+[2] 'por el enjambre no esta pa aca, esta pa alla'
+[3] malloc'ing 204656 bytes
+[3] ptrs[3]: 0x7fffd3c21d10, going to copy 44 chars
+[3] 'por el enjambre no esta pa aca, esta pa alla'
+[4] malloc'ing 255065 bytes
+[4] ptrs[4]: 0x7fffd3c53c90, going to copy 44 chars
+[4] 'por el enjambre no esta pa aca, esta pa alla'
+
+[3] randomly freeing 0x7fffd3c21d10 ('por el enjambre no esta pa aca, esta pa alla')
+[3] freed 0x7fffd3c21d10
+[5] malloc'ing 149243 bytes
+[5] ptrs[5]: 0x7fffd3c21d10, going to copy 44 chars
+[5] 'por el enjambre no esta pa aca, esta pa alla'
+[6] malloc'ing 139707 bytes
+[6] ptrs[6]: 0x7fffd3c92100, going to copy 44 chars
+[6] 'por el enjambre no esta pa aca, esta pa alla'
+
+[5] randomly freeing 0x7fffd3c21d10 ('por el enjambre no esta pa aca, esta pa alla')
+[5] freed 0x7fffd3c21d10
+[7] malloc'ing 64949 bytes
+[7] ptrs[7]: 0x7fffd3c21d10, going to copy 44 chars
+[7] 'por el enjambre no esta pa aca, esta pa alla'
+
+[7] randomly freeing 0x7fffd3c21d10 ('por el enjambre no esta pa aca, esta pa alla')
+[7] freed 0x7fffd3c21d10
+[8] malloc'ing 43248 bytes
+[8] ptrs[8]: 0x7fffd3c21d10, going to copy 44 chars
+[8] 'por el enjambre no esta pa aca, esta pa alla'
+[9] malloc'ing 163023 bytes
+[9] ptrs[9]: 0x7fffd3cb42d0, going to copy 44 chars
+[9] 'por el enjambre no esta pa aca, esta pa alla'
+
+[6] randomly freeing 0x7fffd3c92100 ('por el enjambre no esta pa aca, esta pa alla')
+[6] freed 0x7fffd3c92100
+[10] malloc'ing 179168 bytes
+[10] ptrs[10]: 0x7fffd3cdbfb0, going to copy 44 chars
+[10] 'por el enjambre no esta pa aca, esta pa alla'
+[11] malloc'ing 291101 bytes
+[11] ptrs[11]: 0x7f2f93b30010, going to copy 44 chars
+[11] 'por el enjambre no esta pa aca, esta pa alla'
+
+[11] randomly freeing 0x7f2f93b30010 ('por el enjambre no esta pa aca, esta pa alla')
+[11] freed 0x7f2f93b30010
+[12] malloc'ing 114018 bytes
+[12] ptrs[12]: 0x7fffd3c92100, going to copy 44 chars
+[12] 'por el enjambre no esta pa aca, esta pa alla'
+[13] malloc'ing 223731 bytes
+[13] ptrs[13]: 0x7fffd3d07ba0, going to copy 44 chars
+[13] 'por el enjambre no esta pa aca, esta pa alla'
+[14] malloc'ing 247572 bytes
+[14] ptrs[14]: 0x7fffd3d3e5a0, going to copy 44 chars
+[14] 'por el enjambre no esta pa aca, esta pa alla'
+[15] malloc'ing 193790 bytes
+[15] ptrs[15]: 0x7fffd3d7acc0, going to copy 44 chars
+[15] 'por el enjambre no esta pa aca, esta pa alla'
+[16] malloc'ing 196254 bytes
+[16] ptrs[16]: 0x7fffd3daa1d0, going to copy 44 chars
+[16] 'por el enjambre no esta pa aca, esta pa alla'
+
+[10] randomly freeing 0x7fffd3cdbfb0 ('por el enjambre no esta pa aca, esta pa alla')
+[10] freed 0x7fffd3cdbfb0
+[17] malloc'ing 214989 bytes
+[17] ptrs[17]: 0x7fffd3dda080, going to copy 44 chars
+[17] 'por el enjambre no esta pa aca, esta pa alla'
+[18] malloc'ing 197845 bytes
+[18] ptrs[18]: 0x7fffd3e0e860, going to copy 44 chars
+[18] 'por el enjambre no esta pa aca, esta pa alla'
+
+[4] randomly freeing 0x7fffd3c53c90 ('por el enjambre no esta pa aca, esta pa alla')
+[4] freed 0x7fffd3c53c90
+[19] malloc'ing 281568 bytes
+[19] ptrs[19]: 0x7fffd3c2c610, going to copy 44 chars
+[19] 'por el enjambre no esta pa aca, esta pa alla'
+[19] reallocating 0x7fffd3c2c610 to new size: 816
+[19] realloc failed
+[20] malloc'ing 247322 bytes
+[20] ptrs[20]: 0x7fffd3e3ed40, going to copy 44 chars
+[20] 'por el enjambre no esta pa aca, esta pa alla'
+
+[14] randomly freeing 0x7fffd3d3e5a0 ('por el enjambre no esta pa aca, esta pa alla')
+[14] freed 0x7fffd3d3e5a0
+[21] malloc'ing 231222 bytes
+[21] ptrs[21]: 0x7fffd3d3e5a0, going to copy 44 chars
+[21] 'por el enjambre no esta pa aca, esta pa alla'
+
+[18] randomly freeing 0x7fffd3e0e860 ('por el enjambre no esta pa aca, esta pa alla')
+[18] freed 0x7fffd3e0e860
+[22] malloc'ing 189592 bytes
+[22] ptrs[22]: 0x7fffd3e0e860, going to copy 44 chars
+[22] 'por el enjambre no esta pa aca, esta pa alla'
+[23] malloc'ing 106122 bytes
+[23] ptrs[23]: 0x7fffd3c71200, going to copy 44 chars
+[23] 'por el enjambre no esta pa aca, esta pa alla'
+[24] malloc'ing 198045 bytes
+[24] ptrs[24]: 0x7fffd3e7b370, going to copy 44 chars
+[24] 'por el enjambre no esta pa aca, esta pa alla'
+[25] malloc'ing 236186 bytes
+[25] ptrs[25]: 0x7fffd3eab920, going to copy 44 chars
+[25] 'por el enjambre no esta pa aca, esta pa alla'
+[26] malloc'ing 125239 bytes
+[26] ptrs[26]: 0x7fffd3cdbfb0, going to copy 44 chars
+[26] 'por el enjambre no esta pa aca, esta pa alla'
+[27] malloc'ing 184580 bytes
+[27] ptrs[27]: 0x7fffd3ee53d0, going to copy 44 chars
+[27] 'por el enjambre no esta pa aca, esta pa alla'
+
+[24] randomly freeing 0x7fffd3e7b370 ('por el enjambre no esta pa aca, esta pa alla')
+[24] freed 0x7fffd3e7b370
+[28] malloc'ing 226776 bytes
+[28] ptrs[28]: 0x7fffd3f124e0, going to copy 44 chars
+[28] 'por el enjambre no esta pa aca, esta pa alla'
+[29] malloc'ing 201143 bytes
+[29] ptrs[29]: 0x7fffd3f49ac0, going to copy 44 chars
+[29] 'por el enjambre no esta pa aca, esta pa alla'
+[0] already freed
+[1] already freed
+[2] freeing 0x7fffd3c0a2a0 (por el enjambre no esta pa aca, esta pa alla)
+[2] freed 0x7fffd3c0a2a0
+[3] already freed
+[4] already freed
+[5] already freed
+[6] already freed
+[7] already freed
+[8] freeing 0x7fffd3c21d10 (por el enjambre no esta pa aca, esta pa alla)
+[8] freed 0x7fffd3c21d10
+[9] freeing 0x7fffd3cb42d0 (por el enjambre no esta pa aca, esta pa alla)
+[9] freed 0x7fffd3cb42d0
+[10] already freed
+[11] already freed
+[12] freeing 0x7fffd3c92100 (por el enjambre no esta pa aca, esta pa alla)
+[12] freed 0x7fffd3c92100
+[13] freeing 0x7fffd3d07ba0 (por el enjambre no esta pa aca, esta pa alla)
+[13] freed 0x7fffd3d07ba0
+[14] already freed
+[15] freeing 0x7fffd3d7acc0 (por el enjambre no esta pa aca, esta pa alla)
+[15] freed 0x7fffd3d7acc0
+[16] freeing 0x7fffd3daa1d0 (por el enjambre no esta pa aca, esta pa alla)
+[16] freed 0x7fffd3daa1d0
+[17] freeing 0x7fffd3dda080 (por el enjambre no esta pa aca, esta pa alla)
+[17] freed 0x7fffd3dda080
+[18] already freed
+[19] freeing 0x7fffd3c2c610 (por el enjambre no esta pa aca, esta pa alla)
+[19] freed 0x7fffd3c2c610
+[20] freeing 0x7fffd3e3ed40 (por el enjambre no esta pa aca, esta pa alla)
+[20] freed 0x7fffd3e3ed40
+[21] freeing 0x7fffd3d3e5a0 (por el enjambre no esta pa aca, esta pa alla)
+[21] freed 0x7fffd3d3e5a0
+[22] freeing 0x7fffd3e0e860 (por el enjambre no esta pa aca, esta pa alla)
+[22] freed 0x7fffd3e0e860
+[23] freeing 0x7fffd3c71200 (por el enjambre no esta pa aca, esta pa alla)
+[23] freed 0x7fffd3c71200
+[24] already freed
+[25] freeing 0x7fffd3eab920 (por el enjambre no esta pa aca, esta pa alla)
+[25] freed 0x7fffd3eab920
+[26] freeing 0x7fffd3cdbfb0 (por el enjambre no esta pa aca, esta pa alla)
+[26] freed 0x7fffd3cdbfb0
+[27] freeing 0x7fffd3ee53d0 (por el enjambre no esta pa aca, esta pa alla)
+[27] freed 0x7fffd3ee53d0
+[28] freeing 0x7fffd3f124e0 (por el enjambre no esta pa aca, esta pa alla)
+[28] freed 0x7fffd3f124e0
+[29] freeing 0x7fffd3f49ac0 (por el enjambre no esta pa aca, esta pa alla)
+[29] freed 0x7fffd3f49ac0
+
+[0] malloc'ing 156294 bytes
+[0] ptrs[0]: 0x7f210a520010, going to copy 44 chars
+[0] 'por el enjambre no esta pa aca, esta pa alla'
+
+[0] randomly freeing 0x7f210a520010 ('por el enjambre no esta pa aca, esta pa alla')
+[0] freed 0x7f210a520010
+[1] malloc'ing 47763 bytes
+[1] ptrs[1]: 0x7fffe03232a0, going to copy 44 chars
+[1] 'por el enjambre no esta pa aca, esta pa alla'
+[2] malloc'ing 32316 bytes
+[2] ptrs[2]: 0x7fffe032ed40, going to copy 44 chars
+[2] 'por el enjambre no esta pa aca, esta pa alla'
+[3] malloc'ing 181603 bytes
+[3] ptrs[3]: 0x7f210a520010, going to copy 44 chars
+[3] 'por el enjambre no esta pa aca, esta pa alla'
+
+[2] randomly freeing 0x7fffe032ed40 ('por el enjambre no esta pa aca, esta pa alla')
+[2] freed 0x7fffe032ed40
+[4] malloc'ing 145042 bytes
+[4] ptrs[4]: 0x7fffe032ed40, going to copy 44 chars
+[4] 'por el enjambre no esta pa aca, esta pa alla'
+[5] malloc'ing 103465 bytes
+[5] ptrs[5]: 0x7fffe03523e0, going to copy 44 chars
+[5] 'por el enjambre no esta pa aca, esta pa alla'
+[5] reallocating 0x7fffe03523e0 to new size: 440
+[5] realloc failed
+
+[1] randomly freeing 0x7fffe03232a0 ('por el enjambre no esta pa aca, esta pa alla')
+[1] freed 0x7fffe03232a0
+[6] malloc'ing 226657 bytes
+[6] ptrs[6]: 0x7f210a4e0010, going to copy 44 chars
+[6] 'por el enjambre no esta pa aca, esta pa alla'
+
+[4] randomly freeing 0x7fffe032ed40 ('por el enjambre no esta pa aca, esta pa alla')
+[4] freed 0x7fffe032ed40
+[7] malloc'ing 155683 bytes
+[7] ptrs[7]: 0x7fffe03232a0, going to copy 44 chars
+[7] 'por el enjambre no esta pa aca, esta pa alla'
+
+[3] randomly freeing 0x7f210a520010 ('por el enjambre no esta pa aca, esta pa alla')
+[3] freed 0x7f210a520010
+[8] malloc'ing 7955 bytes
+[8] ptrs[8]: 0x7fffe03492d0, going to copy 44 chars
+[8] 'por el enjambre no esta pa aca, esta pa alla'
+
+[6] randomly freeing 0x7f210a4e0010 ('por el enjambre no esta pa aca, esta pa alla')
+[6] freed 0x7f210a4e0010
+[9] malloc'ing 19090 bytes
+[9] ptrs[9]: 0x7fffe034b1f0, going to copy 44 chars
+[9] 'por el enjambre no esta pa aca, esta pa alla'
+[9] reallocating 0x7fffe034b1f0 to new size: 413
+[9] realloc failed
+[10] malloc'ing 125785 bytes
+[10] ptrs[10]: 0x7fffe036b820, going to copy 44 chars
+[10] 'por el enjambre no esta pa aca, esta pa alla'
+[11] malloc'ing 30437 bytes
+[11] ptrs[11]: 0x7fffe038a390, going to copy 44 chars
+[11] 'por el enjambre no esta pa aca, esta pa alla'
+
+[8] randomly freeing 0x7fffe03492d0 ('por el enjambre no esta pa aca, esta pa alla')
+[8] freed 0x7fffe03492d0
+[12] malloc'ing 275550 bytes
+[12] ptrs[12]: 0x7f210a500010, going to copy 44 chars
+[12] 'por el enjambre no esta pa aca, esta pa alla'
+
+[5] randomly freeing 0x7fffe03523e0 ('por el enjambre no esta pa aca, esta pa alla')
+[5] freed 0x7fffe03523e0
+[13] malloc'ing 145849 bytes
+[13] ptrs[13]: 0x7fffe0391a80, going to copy 44 chars
+[13] 'por el enjambre no esta pa aca, esta pa alla'
+[14] malloc'ing 9908 bytes
+[14] ptrs[14]: 0x7fffe034fc90, going to copy 44 chars
+[14] 'por el enjambre no esta pa aca, esta pa alla'
+
+[7] randomly freeing 0x7fffe03232a0 ('por el enjambre no esta pa aca, esta pa alla')
+[7] freed 0x7fffe03232a0
+[15] malloc'ing 95567 bytes
+[15] ptrs[15]: 0x7fffe0352350, going to copy 44 chars
+[15] 'por el enjambre no esta pa aca, esta pa alla'
+[16] malloc'ing 15023 bytes
+[16] ptrs[16]: 0x7fffe03232a0, going to copy 44 chars
+[16] 'por el enjambre no esta pa aca, esta pa alla'
+[17] malloc'ing 15057 bytes
+[17] ptrs[17]: 0x7fffe0326d60, going to copy 44 chars
+[17] 'por el enjambre no esta pa aca, esta pa alla'
+[18] malloc'ing 174564 bytes
+[18] ptrs[18]: 0x7fffe03b5450, going to copy 44 chars
+[18] 'por el enjambre no esta pa aca, esta pa alla'
+
+[10] randomly freeing 0x7fffe036b820 ('por el enjambre no esta pa aca, esta pa alla')
+[10] freed 0x7fffe036b820
+[19] malloc'ing 38005 bytes
+[19] ptrs[19]: 0x7fffe032a840, going to copy 44 chars
+[19] 'por el enjambre no esta pa aca, esta pa alla'
+
+[11] randomly freeing 0x7fffe038a390 ('por el enjambre no esta pa aca, esta pa alla')
+[11] freed 0x7fffe038a390
+[20] malloc'ing 213388 bytes
+[20] ptrs[20]: 0x7fffe03dfe40, going to copy 44 chars
+[20] 'por el enjambre no esta pa aca, esta pa alla'
+
+[20] randomly freeing 0x7fffe03dfe40 ('por el enjambre no esta pa aca, esta pa alla')
+[20] freed 0x7fffe03dfe40
+[21] malloc'ing 280886 bytes
+[21] ptrs[21]: 0x7fffe03dfe40, going to copy 44 chars
+[21] 'por el enjambre no esta pa aca, esta pa alla'
+[22] malloc'ing 225050 bytes
+[22] ptrs[22]: 0x7fffe0424780, going to copy 44 chars
+[22] 'por el enjambre no esta pa aca, esta pa alla'
+
+[19] randomly freeing 0x7fffe032a840 ('por el enjambre no esta pa aca, esta pa alla')
+[19] freed 0x7fffe032a840
+[23] malloc'ing 199265 bytes
+[23] ptrs[23]: 0x7fffe045b6b0, going to copy 44 chars
+[23] 'por el enjambre no esta pa aca, esta pa alla'
+[24] malloc'ing 162873 bytes
+[24] ptrs[24]: 0x7fffe03698b0, going to copy 44 chars
+[24] 'por el enjambre no esta pa aca, esta pa alla'
+[25] malloc'ing 229945 bytes
+[25] ptrs[25]: 0x7f210a4c0010, going to copy 44 chars
+[25] 'por el enjambre no esta pa aca, esta pa alla'
+
+[24] randomly freeing 0x7fffe03698b0 ('por el enjambre no esta pa aca, esta pa alla')
+[24] freed 0x7fffe03698b0
+[26] malloc'ing 169441 bytes
+[26] ptrs[26]: 0x7fffe048c120, going to copy 44 chars
+[26] 'por el enjambre no esta pa aca, esta pa alla'
+[27] malloc'ing 32536 bytes
+[27] ptrs[27]: 0x7fffe032a840, going to copy 44 chars
+[27] 'por el enjambre no esta pa aca, esta pa alla'
+[27] reallocating 0x7fffe032a840 to new size: 804
+[27] realloc failed
+
+[25] randomly freeing 0x7f210a4c0010 ('por el enjambre no esta pa aca, esta pa alla')
+[25] freed 0x7f210a4c0010
+[28] malloc'ing 137919 bytes
+[28] ptrs[28]: 0x7fffe03698b0, going to copy 44 chars
+[28] 'por el enjambre no esta pa aca, esta pa alla'
+
+[15] randomly freeing 0x7fffe0352350 ('por el enjambre no esta pa aca, esta pa alla')
+[15] freed 0x7fffe0352350
+[29] malloc'ing 175923 bytes
+[29] ptrs[29]: 0x7fffe04b5710, going to copy 44 chars
+[29] 'por el enjambre no esta pa aca, esta pa alla'
+[29] reallocating 0x7fffe04b5710 to new size: 165
+[29] realloc failed
+
+[22] randomly freeing 0x7fffe0424780 ('por el enjambre no esta pa aca, esta pa alla')
+[22] freed 0x7fffe0424780
+[0] already freed
+[1] already freed
+[2] already freed
+[3] already freed
+[4] already freed
+[5] already freed
+[6] already freed
+[7] already freed
+[8] already freed
+[9] freeing 0x7fffe034b1f0 (por el enjambre no esta pa aca, esta pa alla)
+[9] freed 0x7fffe034b1f0
+[10] already freed
+[11] already freed
+[12] freeing 0x7f210a500010 (por el enjambre no esta pa aca, esta pa alla)
+[12] freed 0x7f210a500010
+[13] freeing 0x7fffe0391a80 (por el enjambre no esta pa aca, esta pa alla)
+[13] freed 0x7fffe0391a80
+[14] freeing 0x7fffe034fc90 (por el enjambre no esta pa aca, esta pa alla)
+[14] freed 0x7fffe034fc90
+[15] already freed
+[16] freeing 0x7fffe03232a0 (por el enjambre no esta pa aca, esta pa alla)
+[16] freed 0x7fffe03232a0
+[17] freeing 0x7fffe0326d60 (por el enjambre no esta pa aca, esta pa alla)
+[17] freed 0x7fffe0326d60
+[18] freeing 0x7fffe03b5450 (por el enjambre no esta pa aca, esta pa alla)
+[18] freed 0x7fffe03b5450
+[19] already freed
+[20] already freed
+[21] freeing 0x7fffe03dfe40 (por el enjambre no esta pa aca, esta pa alla)
+[21] freed 0x7fffe03dfe40
+[22] already freed
+[23] freeing 0x7fffe045b6b0 (por el enjambre no esta pa aca, esta pa alla)
+[23] freed 0x7fffe045b6b0
+[24] already freed
+[25] already freed
+[26] freeing 0x7fffe048c120 (por el enjambre no esta pa aca, esta pa alla)
+[26] freed 0x7fffe048c120
+[27] freeing 0x7fffe032a840 (por el enjambre no esta pa aca, esta pa alla)
+[27] freed 0x7fffe032a840
+[28] freeing 0x7fffe03698b0 (por el enjambre no esta pa aca, esta pa alla)
+[28] freed 0x7fffe03698b0
+[29] freeing 0x7fffe04b5710 (por el enjambre no esta pa aca, esta pa alla)
+[29] freed 0x7fffe04b5710
